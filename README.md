@@ -22,6 +22,8 @@
 
 ## Final Solution:
 
+My solution consists in the file main.py.
+
 First, we look at all the possible ways a four-person family can fit into an empty row. There are three different arrangements a four-person family can sit in. These are named Arrangement 1, Arrangement 2 and Arrangement 3. Arrangement 1 consists of seats B, C, D, E. Arrangement 2 consists of seats D, E, F, G. Arrangement 3 consists of seats F, G, H, J. 
 
 ![Image 1](images/Alaska%20Image%201-1.jpg)
